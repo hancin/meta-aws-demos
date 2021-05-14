@@ -4,7 +4,7 @@
   
   <remote name="oe"  fetch="git://git.openembedded.org" />
   <remote name="yp"  fetch="git://git.yoctoproject.org" />
-  <remote name="aws" fetch="git://github.com/aws" />
+  <remote name="aws" fetch="git://github.com/hancin" />
 
   <project remote="oe"
 	   revision="master"
